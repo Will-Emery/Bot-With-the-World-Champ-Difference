@@ -1,0 +1,137 @@
+Player team:
+
+Torkoal @ Charcoal  
+Ability: Drought  
+Tera Type: Fire  
+EVs: 248 HP / 252 SpA / 8 SpD  
+Quiet Nature  
+IVs: 0 Atk / 0 Spe  
+- Eruption  
+- Heat Wave  
+- Earth Power  
+- Protect  
+
+Walking Wake @ Life Orb  
+Ability: Protosynthesis  
+Tera Type: Fairy  
+EVs: 244 SpA / 12 SpD / 252 Spe  
+Timid Nature  
+- Hydro Steam  
+- Draco Meteor  
+- Flamethrower  
+- Protect  
+
+Flutter Mane @ Choice Specs  
+Ability: Protosynthesis  
+Tera Type: Fairy  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Shadow Ball  
+- Moonblast  
+- Mystical Fire  
+- Psyshock  
+
+Landorus-Therian @ Choice Scarf  
+Ability: Intimidate  
+Tera Type: Ground  
+EVs: 252 Atk / 4 SpA / 252 Spe  
+Naive Nature  
+- Earthquake  
+- U-turn  
+- Stone Edge  
+- Grass Knot  
+
+Amoonguss @ Sitrus Berry  
+Ability: Regenerator  
+Tera Type: Water  
+EVs: 244 HP / 128 Def / 136 SpD  
+Bold Nature  
+IVs: 0 Atk / 28 Spe  
+- Spore  
+- Rage Powder  
+- Pollen Puff  
+- Clear Smog  
+
+Chien-Pao @ Heavy-Duty Boots  
+Ability: Sword of Ruin  
+Tera Type: Dark  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Crunch  
+- Icicle Crash  
+- Ice Shard  
+- Sacred Sword  
+
+END OF TEAM
+
+
+Opponent Team (Low information):
+Calyrex
+Flutter Mane
+Iron Hands
+Indeedee
+Incineroar
+Toxapex
+
+Opponent Team (High information):
+Calyrex-Ice @ Heavy-Duty Boots
+Ability: As One (Glastrier)
+EVs: 252 HP / 252 Atk / 4 Def
+Tera Type: Fire
+Adamant Nature
+- Trick Room
+- Glacial Lance
+- Swords Dance
+- High Horsepower
+
+# Flutter Mane
+Flutter Mane @ Life Orb
+Ability: Dancer
+Level: 50
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Moonblast
+- Dazzling Gleam
+- U-turn
+- Psychic
+
+# Iron Hands
+Iron Hands @ Assault Vest
+Ability: Guts
+Level: 50
+EVs: 252 HP / 252 Def / 4 SpD
+Impish Nature
+- Thunder Punch
+- Ice Punch
+- Body Press
+- Drain Punch
+
+# Indeedee-F @ Light Clay
+Ability: Psychic Terrain
+Level: 50
+EVs: 252 HP / 252 Def / 4 SpD
+Bold Nature
+- Expanding Force
+- Helping Hand
+- Protect
+- Light Screen / Reflect (Choose one)
+
+# Incineroar @ Leftovers
+Ability: Intimidate
+Level: 50
+EVs: 252 HP / 252 Def / 4 SpD
+Impish Nature
+- Flare Blitz
+- Knock Off
+- Parting Shot
+- U-turn
+
+# Toxapex @ Rocky Helmet
+Ability: Regenerator
+Level: 50
+EVs: 252 HP / 128 Def / 128 SpD
+Careful Nature
+- Knock Off
+- Baneful Bunker
+- Toxic Spikes
+- Haze
